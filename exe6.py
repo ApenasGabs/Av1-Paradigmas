@@ -1,0 +1,2 @@
+#Vamos supor que você está conversando com uma pessoa que não sabe mexer no computador além das tarefas básicas
+#  (acessar a Internet, ver e-mails, etc). Essa pessoa se deparou recentemente com o termo "linguagem de programação". Considerando essa situação, explique para ela, de maneira simples e da maneira mais detalhada possível o que é uma linguagem de programação. Como funciona, qual a sua importância, entre outros pontos que achar importantes de citar.
